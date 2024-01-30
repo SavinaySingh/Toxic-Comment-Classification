@@ -1,5 +1,6 @@
 # Toxic Comment Classification
 <img width="482" alt="image" src="https://github.com/SavinaySingh/Toxic-Comment-Classification/assets/21008903/d905d299-69d3-4a72-aac4-3f4699f96622">
+
 This repository contains a Jupyter Notebook file (toxic-comment-classification-v01.ipynb) that involves analyzing text comments to determine whether they contain toxic or offensive language. The goal of this task is to develop a model that can accurately identify and flag such comments, with the aim of reducing the prevalence of online harassment, hate speech, and other forms of toxic behavior. This is achieved by employing a classification ML model that can accurately classify online comments as toxic or non-toxic based on their content. The extension to this project involves censoring or masking inappropriate language in the dataset by replacing toxic words with asterisks instead of entirely removing them. 
 
 # Dataset
