@@ -29,7 +29,6 @@ Hyperparameter tuning, including adjusting scale_pos_weight to control the impac
 ## Dependencies
 - Python 3.8.2
 - Required Python packages specified in requirements.txt.
-## Installation
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
